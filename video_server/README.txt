@@ -1,0 +1,1 @@
+The corresponding file 'dash.all.min.js' in /var/www/html contain IP configurations. Your IP and port should replace 'localhost(or my IP:192.168.1.198):8333'. Additionally, the latest IP and port are assumed to replace the out-dated ones in python script pensieve-master/real_exp/run_video.py and pensieve/rl_server/'algo'_server.py

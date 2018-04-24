@@ -1,0 +1,2 @@
+File format:
+time    VIDEO_BIT_RATE[post_data['lastquality']]    post_data['buffer']    rebuffer_time    video_chunk_size    video_chunk_fetch_time    reward
